@@ -12,7 +12,7 @@ This project requires Python 2.7 and the following Python libraries installed:
 
 You will also need to have software installed to run and execute an iPython Notebook
 
-We recommend students install Anaconda, a pre-packaged Python distribution that contains all of the necessary libraries and software for this project.
+Installed Anaconda, a pre-packaged Python distribution that contains all of the necessary libraries and software for this project.
 Code
 
 The main code for this project is located in the finding_donors.ipynb notebook file. Additional supporting code for visualizing the necessary graphs can be found in visuals.py. Additionally, the Report.html file contains a snapshot of the main code in the jupyter notebook with all code cells executed.
